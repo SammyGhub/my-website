@@ -1,5 +1,5 @@
 h2, .school-2, .school-1, .project-name {
-  font-weight: bold; /* Makes the text bold */
+  font-weight: bold; 
 }
 .date-2, .date-1, .internship, .date{
   font-style: italic;
