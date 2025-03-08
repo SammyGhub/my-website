@@ -1,0 +1,77 @@
+h2, .school-2, .school-1, .project-name {
+  font-weight: bold; /* Makes the text bold */
+}
+.date-2, .date-1, .internship, .date{
+  font-style: italic;
+}
+.school-left, .school-right{
+  display: inline-block
+}
+.school-left{
+  padding-left: 40px;
+}
+.school-right{
+  float: right;
+  text-align: right;
+  padding-right: 20px;
+}
+.work1-right, .work1-left{
+  display: inline-block;
+}
+.work1-left{
+  padding-left: 30px;
+  font-weight: bold;
+}
+.work1-right{
+  float: right;
+  text-align: right;
+  padding-right: 20px;
+}
+.body1, .body2, .skills {
+  padding-left: 40px;
+}
+.work2-left, .work2-right{
+  display: inline-block;
+}
+.work2-left{
+  padding-left: 30px;
+  font-weight: bold;
+}
+.work2-right{
+  text-align: right;
+  float: right;
+  padding-right: 20px;
+}
+.description{
+  padding-left: 40px;
+  width: 85%;
+}
+h3, .email{
+  padding-left: 20px;
+}
+.project-name{
+  padding-left: 40px;
+}
+.summary-section{
+  display: inline-block;
+  width: 100%;
+}
+.img{
+  float: right;
+  padding-top: 20px;
+}
+.my-info{
+  text-align: center;
+}
+.hometown{
+  text-align: center;
+  margin-top: -20px;
+  font-size: large;
+}
+.summary{
+  width: 85%;
+  padding-left: 80px;
+}
+footer{
+  text-align: center;
+}
